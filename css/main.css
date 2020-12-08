@@ -249,6 +249,13 @@ img {
   margin: 10px 20px 20px 20px;
 }
 
+.button {
+  border: 3px solid #111;
+  text-decoration: none;
+  padding: 10px;
+  color: #111;
+}
+
 @media only screen and (min-width: 34em) {
 
   .logo-sized {
